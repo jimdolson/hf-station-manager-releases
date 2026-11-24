@@ -9,7 +9,9 @@ This is a **beta** for a few testers.  The installers are on the [Releases](../.
 
 ## How it was built
 
-K8DDV's HF Station Manager was not "vibe coded": it was built over four months through an iterative process between a professional programmer and analyst (K8DDV) and Anthropic's Claude AI, with over 2,000 builds, each checked against an automated test suite, and extensive design and on-air testing sessions with real radios.  It works the way that a person would want it to work, not the way an AI thinks a person would want it to work.
+K8DDV's HF Station Manager was not "vibe coded": it was built over four months through an iterative process between a professional programmer and analyst (K8DDV) and Anthropic's Claude AI, with over 2,000 builds, each checked against an automated test suite, and extensive design and on-air testing sessions with real radios.
+
+It works the way that a person would want it to work, not the way an AI thinks a person would want it to work.
 
 ## Which installer?
 
