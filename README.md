@@ -13,19 +13,19 @@ K8DDV's HF Station Manager was not "vibe coded": it was built over four months t
 
 ## Which installer?
 
-All three install the same program.  They differ only in which data comes with it:
+Click a name to download it (version 9.0.126 beta 1).  All three install the same program.  They differ only in which data comes with it:
 
 | Installer | Size | Pick it if… |
 |---|---|---|
-| `…_fcc-yes_tiles-yes_ants-all.exe` | 1.16 GB | You want everything ready at first start, with no further downloads.  It includes the FCC callsign database, the finished map, and the whole antenna library (6,050 patterns) for propagation forecasts. |
-| `…_fcc-no_tiles-yes_ants-min.exe` | 663 MB | You want the map ready at once but a smaller download.  The program offers to download the FCC database the first time it runs. |
-| `…_fcc-no_tiles-no_ants-min.exe` | 155 MB | You want the smallest download.  It offers the FCC database on first run, then builds the map tiles itself, which takes a while. |
+| [`…_fcc-yes_tiles-yes_ants-all.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/v9.0.126-beta1/K8DDVs_Station_Manager_Setup_9.0.126_fcc-yes_tiles-yes_ants-all.exe) | 1.16 GB | You want everything ready at first start, with no further downloads.  It includes the FCC callsign database, the finished map, and the whole antenna library (6,050 patterns) for propagation forecasts. |
+| [`…_fcc-no_tiles-yes_ants-min.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/v9.0.126-beta1/K8DDVs_Station_Manager_Setup_9.0.126_fcc-no_tiles-yes_ants-min.exe) | 663 MB | You want the map ready at once but a smaller download.  The program offers to download the FCC database the first time it runs. |
+| [`…_fcc-no_tiles-no_ants-min.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/v9.0.126-beta1/K8DDVs_Station_Manager_Setup_9.0.126_fcc-no_tiles-no_ants-min.exe) | 155 MB | You want the smallest download.  It offers the FCC database on first run, then builds the map tiles itself, which takes a while. |
 
 `ants-min` means the antenna library holds six antennas: 80, 40 and 20 m dipoles and end-fed half-waves, flat at 20 ft.
 
 ## Installing
 
-1. Download one installer from the Releases page.
+1. Download one installer: click its name in the table above, or pick it from the [Releases](../../releases) page.
 2. Run it.  The installer isn't code-signed, so Windows SmartScreen may say *"Windows protected your PC."*  Click **More info**, then **Run anyway**.
 3. Start the program and follow the setup questions.
 
