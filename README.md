@@ -1,6 +1,6 @@
 # K8DDV's HF Station Manager — installers
 
-Windows installers for **K8DDV's HF Station Manager**, a program for running an HF transceiver from the PC over CAT.  It covers radio control and setup, propagation forecasts for your own antennas, Winlink gateway ranking, contest tools (ARRL Sweepstakes), FCC callsign lookup and an off-grid map.
+Windows installers for **K8DDV's HF Station Manager**, a program for running a QRP-Labs QMX and/or a Yaesu FT-891 transceiver from the PC over CAT.  It covers radio control and setup, propagation forecasts for your own antennas, Winlink gateway ranking, FCC callsign lookup, an off-grid map, and tools for optimizing your SSB signal.
 
 **Radios:** QRP Labs QMX / QMX+ and Yaesu FT-891.
 **Needs:** Windows 10 or 11, 64-bit.
