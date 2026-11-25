@@ -1,6 +1,6 @@
 # K8DDV's HF Station Manager — installers
 
-Windows installers for **K8DDV's HF Station Manager**, a program for running a QRP-Labs QMX and/or a Yaesu FT-891 transceiver from the PC over CAT.  It covers radio control and setup, propagation forecasts for your own antennas, Winlink gateway ranking, FCC callsign lookup, an off-grid map, and tools for optimizing your SSB signal.
+Windows installers for **K8DDV's HF Station Manager**, a program for running a QRP-Labs QMX and/or a Yaesu FT-891 transceiver from the PC over CAT.  It covers radio control and setup, propagation forecasts for your own antennas, Winlink gateway ranking, US and Canadian callsign lookup, an off-grid map, and tools for optimizing your SSB signal.
 
 **Radios:** QRP Labs QMX / QMX+ and Yaesu FT-891.
 **Needs:** Windows 10 or 11, 64-bit.
@@ -15,13 +15,13 @@ It works the way that a person would want it to work, not the way an AI thinks a
 
 ## Which installer?
 
-Click a name to download it (version 9.0.128 beta 2).  All three install the same program.  They differ only in which data comes with it:
+Click a name to download it (version 9.0.131 beta 4).  All three install the same program.  They differ only in which data comes with it:
 
 | Installer | Size | Pick it if… |
 |---|---|---|
-| [`…_fcc-yes_tiles-yes_ants-all.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/9.0.128-beta2/K8DDVs_Station_Manager_Setup_9.0.128_fcc-yes_tiles-yes_ants-all.exe) | 1.16 GB | You want everything ready at first start, with no further downloads.  It includes the FCC callsign database, the finished map, and the whole antenna library (6,050 patterns) for propagation forecasts. |
-| [`…_fcc-no_tiles-yes_ants-min.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/9.0.128-beta2/K8DDVs_Station_Manager_Setup_9.0.128_fcc-no_tiles-yes_ants-min.exe) | 663 MB | You want the map ready at once but a smaller download.  The program offers to download the FCC database the first time it runs.  It contains only dipoles and EFHW antennas at 20 ft in the antenna library. |
-| [`…_fcc-no_tiles-no_ants-min.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/9.0.128-beta2/K8DDVs_Station_Manager_Setup_9.0.128_fcc-no_tiles-no_ants-min.exe) | 155 MB | You want the smallest download.  It offers the FCC database on first run, then builds the map tiles itself, which takes a while.  It contains only dipoles and EFHW antennas at 20 ft in the antenna library. |
+| [`…_fcc-yes_tiles-yes_ants-all.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/v9.0.131-beta-4/K8DDVs_Station_Manager_Setup_9.0.131_fcc-yes_tiles-yes_ants-all.exe) | 1.16 GB | You want everything ready at first start, with no further downloads.  It includes the FCC and Canadian callsign database, the finished map, and the whole antenna library (6,050 patterns) for propagation forecasts. |
+| [`…_fcc-no_tiles-yes_ants-min.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/v9.0.131-beta-4/K8DDVs_Station_Manager_Setup_9.0.131_fcc-no_tiles-yes_ants-min.exe) | 663 MB | You want the map ready at once but a smaller download.  The program offers to download the FCC/Canadian database the first time it runs.  It contains only dipoles and EFHW antennas at 20 ft in the antenna library. |
+| [`…_fcc-no_tiles-no_ants-min.exe`](https://github.com/jimdolson/hf-station-manager-releases/releases/download/v9.0.131-beta-4/K8DDVs_Station_Manager_Setup_9.0.131_fcc-no_tiles-no_ants-min.exe) | 155 MB | You want the smallest download.  It offers the FCC/Canadian database on first run, then builds the map tiles itself, which takes a while.  It contains only dipoles and EFHW antennas at 20 ft in the antenna library. |
 
 `ants-min` means the antenna library holds six antennas: 80, 40 and 20 m dipoles and end-fed half-waves, flat at 20 ft.
 
